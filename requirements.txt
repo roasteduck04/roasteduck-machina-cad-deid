@@ -1,0 +1,8 @@
+PyMuPDF==1.28.0
+pikepdf==10.18.2
+pyahocorasick==2.3.1
+olefile==0.47
+Pillow==11.3.0
+wordfreq==3.1.1
+zstandard==0.25.0
+zopfli==0.4.3

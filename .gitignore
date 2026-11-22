@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+# private identity lists and run outputs (never commit)
+deid/*.dat
+*.jsonl
+*.jsonl.gz
+registry*.json
+state*.json
+data/
+work/
+out/
