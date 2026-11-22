@@ -44,4 +44,4 @@ diagnostic probes. a2 was built but never submitted, and a20 was never built: it
 | a17 | + vendor catalogue numbers: consistency -4, triplets -3, removal 0 | 817 |
 | a18 | precision pass: ~26,500 regex codes from PDF text (pin labels, component values, IC numbers, standards) and ordinary words caught by the company pattern no longer replaced | 832 |
 | a19 | + drafter initials from title blocks / revision tables, a labelled path-only organisation applied to content, last generic company words dropped | **833** |
-| a21 | a19 with third-party vendor names left in PDFs (submitted in the attempt-20 slot) | pending |
+| a21 | a19 with third-party vendor names left in PDFs (submitted in the attempt-20 slot): removal -5, consistency -9, triplets -10, so vendor names are identities for the grader | 809 |
